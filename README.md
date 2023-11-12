@@ -70,7 +70,3 @@ console.log(vinnare.namn + " vann striden!");
 - **Interaktiva Strider:** Möjlighet för spelaren att välja vilka karaktärer som ska strida.
 
 Denna översikt och kodexempel ger en grundläggande förståelse för att skapa och hantera objekt och arrayer i JavaScript, samt hur man använder dessa för att bygga enkla men interaktiva webbapplikationer.
-
----
-
-Du kan nu kopiera denna text till Google Drive för vidare användning och referens i ditt projekt. Lycka till!
